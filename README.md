@@ -1,5 +1,5 @@
 # Neural Networks and Deep Learning
-Projects from the first course of the Deep Learning Specialization from [deeplearning.ai](https://www.deeplearning.ai/) offered by Coursera.
+Projects from the first course of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning), Neural NEtworks and Deep Learning from [deeplearning.ai](https://www.deeplearning.ai/) offered by Coursera.
 
 ## Getting Started
 
