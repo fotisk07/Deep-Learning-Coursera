@@ -30,5 +30,6 @@ pip install numpy h5py Pil scipy sklearn  matplotlib
 or [conda](https://anaconda.org/anaconda/python)
 ```
 conda install numpy h5py Pil scipy sklearn  matplotlib 
+```
 
 In order to install TensorFlow head over to the [TensorFlow](https://www.tensorflow.org/) site and follow the instructions
