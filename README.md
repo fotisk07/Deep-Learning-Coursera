@@ -1,6 +1,8 @@
 # Deep Learning Specialization
 
-Projects from the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) from [deeplearning.ai](https://www.deeplearning.ai/) by [Andrew Ng](http://www.andrewng.org/) offered by Coursera.
+Projects from the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) from [deeplearning.ai](https://www.deeplearning.ai/) offered by Coursera.
+
+**Instructor: [Andrew Ng](http://www.andrewng.org/)**
 
 # Introduction
 
