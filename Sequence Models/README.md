@@ -1,4 +1,4 @@
-# Improving Neural Networks
+# Sequence Models
 
 ## Introduction
 
