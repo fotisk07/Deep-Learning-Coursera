@@ -1,57 +1,7 @@
 # Deep Learning Specialization
-<!-- Twitter -->
-<a href="http://twitter.com/home?status=SHAREMESSAGE" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i> Twitter</a>
 
-<a class="icon-twitter" rel="nofollow"
-	href="http://twitter.com/"
-	onclick="popUp=window.open(
-		'http://twitter.com/intent/tweet?text=\'[Page Title]\' via @[handle] - [url]',
-		'popupwindow',
-		'scrollbars=yes,width=800,height=400');
-	popUp.focus();
-	return false">
-	<i class="visuallyhidden">share on twitter</i>
-</a> <a class="icon-facebook" rel="nofollow"
-	href="http://www.facebook.com/"
-	onclick="popUp=window.open(
-		'http://www.facebook.com/sharer.php?u=http://example.com',
-		'popupwindow',
-		'scrollbars=yes,width=800,height=400');
-	popUp.focus();
-	return false">
-	<i class="visuallyhidden">share on facebook</i>
-</a> <a class="icon-gplus" rel="nofollow"
-	href="http://www.plus.google.com/"
-	onclick="popUp=window.open(
-		'https://plus.google.com/share?url=http://example.com',
-		'popupwindow',
-		'scrollbars=yes,width=800,height=400');
-	popUp.focus();
-	return false">
-	<i class="visuallyhidden">share on google plus</i>
-</a> <a class="icon-linkedin" rel="nofollow"
-	href="http://www.linkedin.com/"
-	onclick="popUp=window.open(
-		'http://www.linkedin.com/shareArticle?url=http://example.com',
-		'popupwindow',
-		'scrollbars=yes,width=800,height=400');
-	popUp.focus();
-	return false">
-	<i class="visuallyhidden">share on linkedin</i>
-</a> <a class="icon-stumbleupon" rel="nofollow"
-	href="http://www.stumbleupon.com/"
-	onclick="popUp=window.open(
-		'http://www.stumbleupon.com/submit?url=http://example.com',
-		'popupwindow',
-		'scrollbars=yes,width=800,height=400');
-	popUp.focus();
-	return false">
-	<i class="visuallyhidden">share on stumbleupon</i>
-</a> <a class="icon-email" rel="nofollow"
-	href="mailto:?subject=[Page Title] via [Site Name]&amp;
-	body=I've just read '[Page Title]' at [url]">
-	<i class="visuallyhidden">share via email</i>
-</a>
+<a href="http://twitter.com/home?status=SHAREMESSAGE" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i> Twitter</a> <a href="https://www.facebook.com/sharer/sharer.php?u=SHAREMESSAGE" title="Share on Facebook" target="_blank" class="btn btn-facebook"><i class="fa fa-facebook"></i> Facebook</a> <a href="https://plus.google.com/share?url=SHAREMESSAGE" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i> Google+</a> <a href="http://www.stumbleupon.com/submit?url=SHAREMESSAGE" title="Share on StumbleUpon" target="_blank" data-placement="top" class="btn btn-stumbleupon"><i class="fa fa-stumbleupon"></i> Stumbleupon</a> <a href="http://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=SHAREMESSAGE" title="Share on LinkedIn" target="_blank" class="btn btn-linkedin"><i class="fa fa-linkedin"></i> LinkedIn</a>
+
 
 Projects from the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) from [deeplearning.ai](https://www.deeplearning.ai/) offered by Coursera.
 
