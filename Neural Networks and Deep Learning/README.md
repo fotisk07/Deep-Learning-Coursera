@@ -12,7 +12,7 @@ In this course, you will learn the foundations of deep learning. When you finish
 
 This course also teaches you how Deep Learning actually works, rather than presenting only a cursory or surface-level description. So after completing it, you will be able to apply deep learning to a your own applications. If you are looking for a job in AI, after this course you will also be able to answer basic interview questions. 
 
-This is the first course of the Deep Learning Specialization.
+This is the [first course](https://www.coursera.org/learn/neural-networks-deep-learning) of the Deep Learning Specialization.
 
 ## Prerequistes
  
