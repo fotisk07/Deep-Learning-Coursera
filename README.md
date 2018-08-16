@@ -19,7 +19,7 @@ Projects from the [Deep Learning Specialization](https://www.coursera.org/specia
 
 
 
-## Porgramming Assignements
+## Programming Assignements
 - Course 1: Neural Networks and Deep Learning
   - Week 2 - PA 1 - Logistic Regresssion as a Neural Network
   - Week 2 - PA 2 - Python Basics with Numpy
@@ -27,7 +27,7 @@ Projects from the [Deep Learning Specialization](https://www.coursera.org/specia
   - Week 4 - PA 1 - Building your Deep Neural Network Step by Step
   - Week 4 - PA 2 - Deep Neural Network Application_Image Classification
   
-- Course 2: Imrpoving Neural Networks
+- Course 2: Improving Neural Networks
   - Week 1 - PA 1 - Gradient Checcking
   - Week 1 - PA 2 - Regularisation
   - Week 1 - PA 3 - Initialization
