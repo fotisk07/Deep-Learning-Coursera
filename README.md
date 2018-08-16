@@ -1,6 +1,6 @@
 # Deep Learning Specialization
 
-<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+<button class="button-save large">Big Fat Button</button>
 
 Projects from the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) from [deeplearning.ai](https://www.deeplearning.ai/) offered by Coursera.
 
