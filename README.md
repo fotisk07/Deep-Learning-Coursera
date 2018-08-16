@@ -4,7 +4,7 @@ Projects from the [Deep Learning Specialization](https://www.coursera.org/specia
 
 # Introduction
 
-**Master Deep Learning and Break Into AI**
+## Master Deep Learning and Break Into AI
 
 *If you want to break into AI, this Specialization will help you do so. Deep Learning is one of the most highly sought after skills in tech. We will help you become good at Deep Learning.*
 
@@ -80,7 +80,7 @@ jyputer notebook
 locate the notebook and run it.
 
 ## Disclaimer
-Please use this repository as  **reference** or hep **only** and do not hard copy and paste the assignements. 
+Please use this repository **ONLY** as **reference** or **for help**  and do not hard copy and paste the assignements. 
 
 
 ## Contributing
