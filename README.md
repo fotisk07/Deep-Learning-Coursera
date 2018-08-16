@@ -1,6 +1,5 @@
 # Deep Learning Specialization
-
-<a href="http://twitter.com/home?status=SHAREMESSAGE" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i> Twitter</a> <a href="https://www.facebook.com/sharer/sharer.php?u=SHAREMESSAGE" title="Share on Facebook" target="_blank" class="btn btn-facebook"><i class="fa fa-facebook"></i> Facebook</a> <a href="https://plus.google.com/share?url=SHAREMESSAGE" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i> Google+</a> <a href="http://www.stumbleupon.com/submit?url=SHAREMESSAGE" title="Share on StumbleUpon" target="_blank" data-placement="top" class="btn btn-stumbleupon"><i class="fa fa-stumbleupon"></i> Stumbleupon</a> <a href="http://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=SHAREMESSAGE" title="Share on LinkedIn" target="_blank" class="btn btn-linkedin"><i class="fa fa-linkedin"></i> LinkedIn</a>
+<a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 Projects from the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) from [deeplearning.ai](https://www.deeplearning.ai/) offered by Coursera.
