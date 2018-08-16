@@ -1,4 +1,4 @@
-# Improving Neural Networks
+# Convolutional Neural Networks
 
 ## Introduction
 
