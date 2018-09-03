@@ -4,9 +4,7 @@ Projects from the [Deep Learning Specialization](https://www.coursera.org/specia
 
 **Instructor: [Andrew Ng](http://www.andrewng.org/)**
 
-## Introduction
-
-# Master Deep Learning and Break Into AI
+## Master Deep Learning and Break Into AI
 
 *If you want to break into AI, this Specialization will help you do so. Deep Learning is one of the most highly sought after skills in tech. We will help you become good at Deep Learning.*
 
